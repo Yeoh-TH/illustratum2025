@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import SineWaveGenerator from './SineWaveGenerator';
 import Slider from './Slider';
 import NumberInput from './NumberInput';
-import './App.css';
+import './App.css'
 
 function App() {
   const [generators, setGenerators] = useState([]);

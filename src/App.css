@@ -92,17 +92,4 @@ p {
 }
 
 
-.soundButtons {
-  font-size: 15lvw;
-  background-color: var(--backGround);
-  border: none;
-}
-
-
-#graph {
-  width: 100%;
-}
-
-#graph2 {
-  width: 100%;
-}
+.soundBut
