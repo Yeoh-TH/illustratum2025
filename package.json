@@ -2,6 +2,7 @@
   "name": "illustratum2025",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https: //yeoh-th.github.io/illustratum2025/",
   "type": "module",
   "scripts": {
     "dev": "vite",
